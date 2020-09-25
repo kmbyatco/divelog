@@ -1,0 +1,13 @@
+version: '3.6'
+
+services:
+  web:
+    build: .
+    working_dir: /home/node/app
+    volumes:
+      - .:/home/node/app
+      - /home/node/app/node_modules
+    ports:
+     - "80:3000"
+    command: yarn start
+    stdin_open: true
