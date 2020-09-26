@@ -8,3 +8,8 @@
 * Create node dev environment
 
       docker-compose build
+
+* Deploy to github pages
+
+      docker-compose up
+      docker exec -it divelog_web_1 yarn deploy
