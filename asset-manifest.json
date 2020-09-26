@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/divelog/static/css/main.5f361e03.chunk.css",
+    "main.js": "/divelog/static/js/main.6b9db9aa.chunk.js",
+    "main.js.map": "/divelog/static/js/main.6b9db9aa.chunk.js.map",
+    "runtime-main.js": "/divelog/static/js/runtime-main.5221cfb0.js",
+    "runtime-main.js.map": "/divelog/static/js/runtime-main.5221cfb0.js.map",
+    "static/js/2.16227110.chunk.js": "/divelog/static/js/2.16227110.chunk.js",
+    "static/js/2.16227110.chunk.js.map": "/divelog/static/js/2.16227110.chunk.js.map",
+    "index.html": "/divelog/index.html",
+    "precache-manifest.8f394763df824eb3a11909c6cc342d53.js": "/divelog/precache-manifest.8f394763df824eb3a11909c6cc342d53.js",
+    "service-worker.js": "/divelog/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/divelog/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.16227110.chunk.js.LICENSE.txt": "/divelog/static/js/2.16227110.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/divelog/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5221cfb0.js",
+    "static/js/2.16227110.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.6b9db9aa.chunk.js"
+  ]
+}
