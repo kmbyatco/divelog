@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "61289562bf5f913efef940444055a8ce",
+    "revision": "acb89654ad7a739c635d3e6795ab39e2",
     "url": "/divelog/index.html"
   },
   {
-    "revision": "00f6e35a06ea2c7543d4",
+    "revision": "45e721df9946432d9ef3",
     "url": "/divelog/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/divelog/static/js/2.16227110.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "00f6e35a06ea2c7543d4",
-    "url": "/divelog/static/js/main.6b9db9aa.chunk.js"
+    "revision": "45e721df9946432d9ef3",
+    "url": "/divelog/static/js/main.85cb457f.chunk.js"
   },
   {
     "revision": "1140a6f7b3c613f31ede",
